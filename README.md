@@ -6,4 +6,6 @@
 
 ## [实验3  SQL\*Plus基本操作](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.3 "实验3")
 
+## [实验4  SQL数据定义语言（DDL）](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.4 "实验4")
+
 ## TODO
