@@ -8,4 +8,6 @@
 
 ## [实验4  SQL数据定义语言（DDL）](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.4 "实验4")
 
+## [实验5  数据操纵语言与SQL简单查询](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.5 "实验5")
+
 ## TODO
