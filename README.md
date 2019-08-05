@@ -10,4 +10,6 @@
 
 ## [实验5  数据操纵语言与SQL简单查询](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.5 "实验5")
 
+## [实验6  SQL查询](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.6 "实验6")
+
 ## TODO
