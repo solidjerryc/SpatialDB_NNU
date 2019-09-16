@@ -12,4 +12,6 @@
 
 ## [实验6  SQL查询](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.6 "实验6")
 
+## [实验7  SQL查询（2）](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.7 "实验7")
+
 ## TODO
