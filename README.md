@@ -16,4 +16,10 @@
 
 ## [实验8  空间数据查询](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.8 "实验8")
 
-## TODO
+## [实验9  Oracle空间查询](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.9 "实验9")
+
+## [实验10  创建空间数据](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.10 "实验10")
+
+## [实验11  数据库的安全性](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.11 "实验11")
+
+## [实验12  Oracle数据的导入与导出](https://github.com/solidjerryc/SpatialDB_NNU/tree/master/Ex.12 "实验12")
